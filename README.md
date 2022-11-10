@@ -1,2 +1,2 @@
-# kiby-cms-v3
+# kirby CMS
 The CMS that adapts to any project. Made for developers, designers, creators and clients.
