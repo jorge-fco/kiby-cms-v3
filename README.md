@@ -28,3 +28,9 @@ The CMS that adapts to any project. Made for developers, designers, creators and
 index.php
 .htaccess
 ```
+
+## 🗂 Sitemap
+- Home
+- Error 404
+- Privacy
+- Terms
