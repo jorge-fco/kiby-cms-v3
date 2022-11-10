@@ -1,5 +1,5 @@
 # Kirby CMS
-Version – **3.8**
+Version – `3.8`
 
 The CMS that adapts to any project. Made for developers, designers, creators and clients.
 
