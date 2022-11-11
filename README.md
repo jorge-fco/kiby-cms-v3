@@ -34,3 +34,6 @@ index.php
 - Error 404
 - Privacy
 - Terms
+
+## Debug mode
+Enables/disables PHP errors [**Debug mode**](https://getkirby.com/docs/reference/system/options/debug)
