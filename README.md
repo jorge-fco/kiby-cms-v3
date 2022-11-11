@@ -35,5 +35,10 @@ index.php
 - Privacy
 - Terms
 
+## Menu
+[Navigation menu](https://getkirby.com/docs/cookbook/templating/menus)
+
+## Deployment
+
 ## Debug mode
 Enables/disables PHP errors [**Debug mode**](https://getkirby.com/docs/reference/system/options/debug)
