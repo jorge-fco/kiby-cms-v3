@@ -38,9 +38,12 @@ index.php
 ## Menu
 [Navigation menu](https://getkirby.com/docs/cookbook/templating/menus)
 
-## Deployment
+## ❗️ Debug mode
+Enables/disables PHP errors [**Debug mode**](https://getkirby.com/docs/reference/system/options/debug)
+
+## 🚀 Deployment
 - Favicon
 - Title
+- Description
+- Image
 
-## Debug mode
-Enables/disables PHP errors [**Debug mode**](https://getkirby.com/docs/reference/system/options/debug)
