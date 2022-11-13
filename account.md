@@ -29,8 +29,9 @@ Route: `/site/blueprints/users/`
 - Country
 
 ## ❗️ Validation
-- Contraseña incorrecta.
-- Correo repetido ya registrado previamente.
-- Contraseña débil, ingresar una contraseña segura con más o igual a 8 caracteres.
+- [ ] Contraseña incorrecta.
+- [ ] Correo repetido ya registrado previamente.
+- [ ] Contraseña débil, ingresar una contraseña segura con más o igual a 8 caracteres.
+- [ ] Envío de notificación vía correo electrónico al crear una nueva cuenta.
 
 
