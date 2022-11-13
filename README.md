@@ -36,7 +36,9 @@ index.php
 - Terms
 
 ## Menu
-Navigation – [**menu**](https://getkirby.com/docs/cookbook/templating/menus)
+- Navigation – [**Menú principal**](https://getkirby.com/docs/cookbook/templating/menus)
+- Accounts – [**Opciones de usuario**](https://github.com/jorge-fco/kirby-cms-v3/blob/main/accounts.md)
+- Search – []()
 
 ## ❗️ Debug mode
 Enables/disables PHP errors [**Debug mode**](https://getkirby.com/docs/reference/system/options/debug)
