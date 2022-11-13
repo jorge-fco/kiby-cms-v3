@@ -42,8 +42,8 @@ Navigation – [**menu**](https://getkirby.com/docs/cookbook/templating/menus)
 Enables/disables PHP errors [**Debug mode**](https://getkirby.com/docs/reference/system/options/debug)
 
 ## 🚀 Deployment
-- Favicon
-- Title
-- Description
-- Image
+- [ ] Favicon
+- [ ] Title
+- [ ] Description
+- [ ] Image
 
