@@ -16,10 +16,10 @@ Route: `/site/blueprints/users/`
 - Logout
 
 ## 📋 Customer
-- First name
-- Last name
-- Email
-- Phone number
+- First name.
+- Last name.
+- Email.
+- Phone number.
 - Company
 - Street
 - Postal code
@@ -27,3 +27,10 @@ Route: `/site/blueprints/users/`
 - City
 - State
 - Country
+
+## ❗️ Validation
+- Contraseña incorrecta.
+- Correo repetido ya registrado previamente.
+- Contraseña débil, ingresar una contraseña segura con más o igual a 8 caracteres.
+
+
