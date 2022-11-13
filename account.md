@@ -1,13 +1,13 @@
 # Accounts
-Create the 📁`users` folder in the following path:
+**1.-** Create the 📁`users` folder in the following path:
 
 Route: `/site/blueprints/users/`
 
 * User registration – [**Sign Up**](https://getkirby.com/docs/cookbook/forms/user-registration)
-* User registration – [**Authentication**](https://getkirby.com/docs/reference/system/options/auth)
-* Password reset – []()
-* Permissions (https://getkirby.com/docs/guide/users/permissions)
-* User blueprints (https://getkirby.com/docs/reference/panel/samples/user)
+* Login methods – [**Authentication**](https://getkirby.com/docs/reference/system/options/auth)
+* Password reset – [**Password reset feature**](https://getkirby.com/docs/guide/authentication/login-methods)
+* Permissions – [**Users permissions**](https://getkirby.com/docs/guide/users/permissions)
+* User blueprints – [**Samples user**](https://getkirby.com/docs/reference/panel/samples/user)
 
 ## 🗂 Sitemap
 - Login
