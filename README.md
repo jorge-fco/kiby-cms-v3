@@ -36,7 +36,7 @@ index.php
 - Terms
 
 ## Menu
-[Navigation menu](https://getkirby.com/docs/cookbook/templating/menus)
+Navigation – [**menu**](https://getkirby.com/docs/cookbook/templating/menus)
 
 ## ❗️ Debug mode
 Enables/disables PHP errors [**Debug mode**](https://getkirby.com/docs/reference/system/options/debug)
