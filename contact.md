@@ -1,4 +1,12 @@
 # Contacto
+## Formulario
+- Nombre
+- Apellido
+- Email
+- Teléfono
+- Mensaje
+
+## Esquema
 - **Información**
   - Email 
   - Télefono 
