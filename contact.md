@@ -19,6 +19,6 @@
   - Linkedin   
   - TikTok 
 - **Google Maps**
-- Enlace de Google Maps
-- Latitud
-- Longitud
+  - Enlace de Google Maps
+  - Latitud
+  - Longitud
