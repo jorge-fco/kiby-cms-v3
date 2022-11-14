@@ -5,6 +5,8 @@
 - Email
 - Teléfono
 - Mensaje
+- reCAPTCHA
+- Token
 
 ## Esquema
 - **Información**
