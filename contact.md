@@ -1,8 +1,8 @@
 # Contacto
 * [Basic contact form](https://getkirby.com/docs/cookbook/forms/basic-contact-form)
 * [Guide emails](https://getkirby.com/docs/guide/emails)
-* Mensaje `success`
-* Mensaje `error`
+* ✅ Mensaje `success`
+* ❌ Mensaje `error`
 
 ## Formulario
 - [ ] **Nombre** (_required_)
