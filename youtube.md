@@ -10,6 +10,11 @@ var tag;
 var player;
 var $VideoPlay = $('.js-video-youtube-play');
 
+// This code loads the IFrame Player API code asynchronously.
+tag = document.createElement('script');
+tag.src = "https://www.youtube.com/iframe_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 ```
 
 ## Steps
