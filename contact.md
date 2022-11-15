@@ -4,9 +4,9 @@
 - [ ] **Apellido** (_required_)
 - [ ] **Email** (_required_)
 - [ ] **Teléfono** (_required_)
-- [ ] Mensaje
-- [ ] reCAPTCHA
-- [x] Token
+- [ ] Mensaje.
+- [ ] reCAPTCHA.
+- [x] Token.
 
 ## Esquema
 - **Información**
