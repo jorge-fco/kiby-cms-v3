@@ -1,12 +1,12 @@
 # Contacto
 ## Formulario
-- Nombre
-- Apellido
-- Email
-- Teléfono
-- Mensaje
-- reCAPTCHA
-- Token
+- [ ] **Nombre** (_required_)
+- [ ] **Apellido** (_required_)
+- [ ] **Email** (_required_)
+- [ ] **Teléfono** (_required_)
+- [ ] Mensaje
+- [ ] reCAPTCHA
+- [x] Token
 
 ## Esquema
 - **Información**
