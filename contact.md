@@ -1,4 +1,6 @@
 # Contacto
+[Basic contact form]https://getkirby.com/docs/cookbook/forms/basic-contact-form
+
 ## Formulario
 - [ ] **Nombre** (_required_)
 - [ ] **Apellido** (_required_)
@@ -7,6 +9,13 @@
 - [ ] Mensaje.
 - [ ] reCAPTCHA.
 - [x] Token.
+
+## Email template
+- [ ] Nombre
+- [ ] Apellido
+- [ ] Email
+- [ ] Teléfono
+- [ ] Mensaje
 
 ## Esquema
 - **Información**
