@@ -4,6 +4,15 @@
 - Overlay
 - Video
 
+## Get started
+```javascript
+var tag;
+var player;
+var $VideoPlay = $('.js-video-youtube-play');
+
+```
+
+## Steps
 **1.- Play button**
 ```
 ```
