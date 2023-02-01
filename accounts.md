@@ -1,4 +1,6 @@
 # Accounts
+https://getkirby.com/docs/guide/emails
+
 **1.-** Create the 📁`users` folder in the following path:
 
 Route: `/site/blueprints/users/`
